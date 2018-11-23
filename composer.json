@@ -4,19 +4,35 @@
     "version": "1.0.0",
     "type": "library",
     "license": "MPL-2.0",
+    "minimum-stability": "dev",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/victorcaina/php-sdk-vrbeneficios.git"
     },
     "keywords": [
-        "api",
-        "rest"
+        "Vr",
+        "Vr Benefícios",
+        "VrBenefícios",
+        "VrBeneficios",
+        "api vrbeneficios",
+        "api"
     ],
-    "author": "Victor Cainã",
-    "bugs": {
-        "url": "https://github.com/victorcaina/php-sdk-vrbeneficios/issues"
+    "authors": [
+        {
+            "name": "contributors",
+            "homepage": "https://github.com/victorcaina/vrbeneficios-php/graphs/contributors"
+        }
+    ],
+    "require": {
+        "php": ">5.3",
+        "ext-mbstring":"*",
+        "ext-curl":"*",
+        "ext-json":"*"
     },
-    "homepage": "https://github.com/victorcaina/php-sdk-vrbeneficios#readme",
+    "bugs": {
+        "url": "https://github.com/victorcaina/vrbeneficios-php/issues"
+    },
+    "homepage": "https://github.com/victorcaina/vrbeneficios-php#readme",
     "autoload": {
         "psr-4": {
             "VrBeneficios\\": "lib"
