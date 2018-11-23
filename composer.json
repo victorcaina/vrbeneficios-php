@@ -3,7 +3,7 @@
     "description": "vrbeneficios-php",
     "version": "1.0.0",
     "type": "library",
-    "license": "MPL-2.0",
+    "license": "MIT",
     "minimum-stability": "dev",
     "repository": {
         "type": "git",
