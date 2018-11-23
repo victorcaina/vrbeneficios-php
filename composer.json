@@ -1,6 +1,6 @@
 {
-    "name": "php-sdk-vrbeneficios",
-    "description": "vr-beneficios",
+    "name": "vrbeneficios-php",
+    "description": "vrbeneficios-php",
     "version": "1.0.0",
     "type": "library",
     "license": "MPL-2.0",
