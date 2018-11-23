@@ -1,0 +1,25 @@
+{
+    "name": "mozgbrasil/php-sdk-vrbeneficios",
+    "description": "vr-beneficios",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MPL-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/victorcaina/php-sdk-vrbeneficios.git"
+    },
+    "keywords": [
+        "api",
+        "rest"
+    ],
+    "author": "Victor Cainã",
+    "bugs": {
+        "url": "https://github.com/victorcaina/php-sdk-vrbeneficios/issues"
+    },
+    "homepage": "https://github.com/victorcaina/php-sdk-vrbeneficios#readme",
+    "autoload": {
+        "psr-4": {
+            "VrBeneficios\\": "lib"
+        }
+    }
+}
